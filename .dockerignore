@@ -1,7 +1,1 @@
-mysql-data/
-.git
-.gitignore
-Jenkinsfile
-*.pem
-*.key
-*.crt
+
